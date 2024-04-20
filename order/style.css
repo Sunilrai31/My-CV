@@ -1,0 +1,107 @@
+body{
+   display: flex;
+   border: none;
+
+}
+.side{
+   background-color: rgb(13, 76, 81);
+   height: inherit;
+   width: 30%;
+   display: block;
+
+}
+.side img{
+   height: 230px;
+   margin-top: 20px;
+   margin-left: 20px;
+   width: 80%;
+   border: none;
+   border-radius: 70%;
+}
+.side h1{
+   color: rgb(243, 244, 245);
+   font-size: 30px;
+   text-align: center;
+   margin-top: 20px;
+}
+.side h2{
+   color:bisque;
+   font-size: 15px;
+   text-align: center;
+
+}
+.side h3{
+   color:rgb(248, 246, 244);
+   font-size: 20px;
+   text-align: left;
+   margin-top: 40px;
+
+}
+.side p{
+   color:white;
+   font-size: 16px;
+   text-align: left;
+   margin-top: 25px;
+   
+}
+.cnt{
+   padding-left: 20px;
+   padding-top: 20px;
+   
+}
+.sec{
+   display: block;
+   width: fit-content;
+   margin-top: 30px;
+   padding-left: 70px;
+   color: rgb(10, 46, 56);
+}
+
+.exp h3{
+   display:flex ;
+   font-size: 17px;
+   color: rgb(58, 113, 150);
+
+}
+.exp h2{
+   padding-top: 10px;
+   height: fit-content;
+   width: fit-content;
+}
+.exp p{
+   font-size: small;
+}
+.exp{
+   display:flex;
+   margin-top: 10px;
+   width: fit-content; 
+   height: inherit;
+}
+ .exp h1{
+   display: contents;
+   width: fit-content;
+   height: fit-content;
+  
+
+}
+.exp .qe{
+   margin-top: 60px;
+   padding-right: 20px;
+
+}
+.exp .qw{
+  margin-top: 60px;
+   padding-left: 70px;
+}
+/* ...............................................card..................................................... */
+
+.border{
+   color: black;
+   background-color: rgb(133 190 195);
+   border-radius: 15px;
+  
+}
+
+.pt-5 {
+   padding: 155px;
+}
